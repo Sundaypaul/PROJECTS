@@ -15,7 +15,7 @@ Here you'll find:
 
 ---
 
-## 🚀 Git Setup Instructions
+
 
 To initialize and push this repository to GitHub, use the following commands:
 
@@ -36,15 +36,15 @@ git push -u origin main
 Explore my dashboards:
 
 
-1. NHS PLACE 2024
+1. NHS PLACE 2024:
 [🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzg0YTY4NDMtMjgyZi00ZGJmLTkyODQtMmJiZmQzZmM3ZWI3IiwidCI6IjQ5ZDY2N2E3LWI2NGMtNDlkNC1iMDNlLWRmMjEzNDQzZDMyNyJ9)
 
 
 
-2. UK's Police Limited Duties dataset from 2016-2025
+2. UK's Police Limited Duties dataset from 2016-2025:
 [🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTVhN2QzYjQtYzIzZS00NzIyLTkxZmEtN2ZlY2I3MDBmNzIwIiwidCI6IjQ5ZDY2N2E3LWI2NGMtNDlkNC1iMDNlLWRmMjEzNDQzZDMyNyJ9)
 
-3. NHS Bedsitrep Provider Dashboard on Power BI:  
+4. NHS Bedsitrep Provider Dashboard on Power BI:  
 [🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjJjZWVlNmItMDVmYS00MjEyLTk3MmItMGNmODA4Njk2OWNmIiwidCI6IjQ5ZDY2N2E3LWI2NGMtNDlkNC1iMDNlLWRmMjEzNDQzZDMyNyJ9)
 
 ## 🛠️ Tools Used
